@@ -392,26 +392,4 @@ You can also open an issue and put your thoughts there.
 
 Please use the "Issues" function for comments.
 
-## Support
-
-Everything is free, but please support what you like!
-Join my Patreon and become a plumber yourself:
-[Link to my Patreon](https://patreon.com/plumbersofds)
-
-Or support me and send a message I read on the next livestream through Paypal.me:
-[Link to my Paypal.me/feedthestream](https://paypal.me/feedthestream)
-
-## Important Links
-
-Subscribe to my Plumbers of Data Science YouTube channel for regular updates:
-[Link to YouTube](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA)
-
-Check out my blog and get updated via mail by joining my mailing list:
-[andreaskretz.com](https://andreaskretz.com)
-
-I have a Medium publication where you can publish your data engineer articles to reach more people:
-[Medium publication](https://link.medium.com/9oi1VDrhPW)
-
-<br>
-*(As an Amazon Associate I earn from qualifying purchases from Amazon
-This is free of charge for you, but super helpful for supporting this channel)
+[The content source URL](https://github.com/andkret/Cookbook)
